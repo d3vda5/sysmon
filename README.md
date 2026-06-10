@@ -26,7 +26,7 @@ A Linux-based CLI tool for real-time system call monitoring with security alerts
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/sysmon.git
+git clone https://github.com/bali-36/sysmon.git
 cd sysmon
 ```
 ### 2. Install Dependencies
